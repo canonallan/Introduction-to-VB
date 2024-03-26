@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\employeesalary\bin\Debug\employeesalary.exe.config
+C:\Users\user\source\repos\employeesalary\bin\Debug\employeesalary.exe
+C:\Users\user\source\repos\employeesalary\bin\Debug\employeesalary.pdb
+C:\Users\user\source\repos\employeesalary\bin\Debug\employeesalary.xml
+C:\Users\user\source\repos\employeesalary\obj\Debug\employeesalary.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\employeesalary\obj\Debug\employeesalary.Form1.resources
+C:\Users\user\source\repos\employeesalary\obj\Debug\employeesalary.Resources.resources
+C:\Users\user\source\repos\employeesalary\obj\Debug\employeesalary.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\employeesalary\obj\Debug\employeesalary.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\employeesalary\obj\Debug\employeesalary.exe
+C:\Users\user\source\repos\employeesalary\obj\Debug\employeesalary.xml
+C:\Users\user\source\repos\employeesalary\obj\Debug\employeesalary.pdb
